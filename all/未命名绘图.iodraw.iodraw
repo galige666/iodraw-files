@@ -22,10 +22,13 @@
         <mxCell id="mZDcPmdiPY3Pz6_6HdLt-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Split data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mZDcPmdiPY3Pz6_6HdLt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZDcPmdiPY3Pz6_6HdLt-10" target="mZDcPmdiPY3Pz6_6HdLt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mZDcPmdiPY3Pz6_6HdLt-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;RBF-KAN model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="370" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mZDcPmdiPY3Pz6_6HdLt-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Loss Function&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mZDcPmdiPY3Pz6_6HdLt-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Loss Function&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="460" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
