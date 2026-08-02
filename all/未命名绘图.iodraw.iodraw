@@ -63,13 +63,15 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Repeat for all 5 folds&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="350" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVvd3JyoUQdP9xuLBPqE-4" target="dVvd3JyoUQdP9xuLBPqE-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVvd3JyoUQdP9xuLBPqE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.0000000000001" y="490.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculate mean CV-RMSE&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-6" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-8" value="All combinations evaluated?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
