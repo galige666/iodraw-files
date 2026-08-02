@@ -57,7 +57,7 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;Validate on the remaining fold&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-2" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Repeat for all 5 folds&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
