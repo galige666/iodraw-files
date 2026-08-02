@@ -72,7 +72,7 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculate mean CV-RMSE&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-8" value="All combinations evaluated?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;All combinations evaluated?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
