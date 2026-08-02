@@ -52,8 +52,14 @@
             <mxPoint x="220" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ntw0MYv2i0BjDHF5wW36-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ntw0MYv2i0BjDHF5wW36-13" target="Ntw0MYv2i0BjDHF5wW36-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ntw0MYv2i0BjDHF5wW36-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train RBF-KAN on 4 folds&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ntw0MYv2i0BjDHF5wW36-21" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
