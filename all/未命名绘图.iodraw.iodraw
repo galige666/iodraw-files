@@ -52,14 +52,13 @@
             <mxPoint x="220" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntw0MYv2i0BjDHF5wW36-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ntw0MYv2i0BjDHF5wW36-13" target="Ntw0MYv2i0BjDHF5wW36-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ntw0MYv2i0BjDHF5wW36-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ntw0MYv2i0BjDHF5wW36-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ntw0MYv2i0BjDHF5wW36-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train RBF-KAN on 4 folds&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="250" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ntw0MYv2i0BjDHF5wW36-16" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;p&gt;&lt;strong&gt;&lt;font face=&quot;urPUcuMRGzySgczfkin4&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Validate on the remaining fold&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;b&gt;&lt;font face=&quot;urPUcuMRGzySgczfkin4&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157.5" y="310" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
