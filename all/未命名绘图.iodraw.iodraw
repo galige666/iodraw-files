@@ -46,6 +46,12 @@
         <mxCell id="Ntw0MYv2i0BjDHF5wW36-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;fold 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="210" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Ntw0MYv2i0BjDHF5wW36-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
