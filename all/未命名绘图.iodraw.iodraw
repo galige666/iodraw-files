@@ -58,8 +58,8 @@
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="599.75" y="390" as="sourcePoint" />
-            <mxPoint x="599.7500000000001" y="450.0000000000001" as="targetPoint" />
+            <mxPoint x="599.76" y="380" as="sourcePoint" />
+            <mxPoint x="599.7600000000001" y="440.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculate mean CV-RMSE&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
