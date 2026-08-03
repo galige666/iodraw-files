@@ -164,8 +164,8 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Construct Top-K candidate wavelength subsets&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197.5" y="250" width="102.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188.75" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Select optimal K using 5-fold CV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="188.75" y="330" width="111.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
