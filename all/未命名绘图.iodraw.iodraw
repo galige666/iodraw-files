@@ -117,7 +117,7 @@
             <mxPoint x="485" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-22" value="Optimized full-spectrum RBF-KAN model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="530" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
