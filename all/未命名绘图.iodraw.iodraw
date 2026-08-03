@@ -173,11 +173,11 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVvd3JyoUQdP9xuLBPqE-33" target="dVvd3JyoUQdP9xuLBPqE-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="447" y="290" width="345" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-33" value="&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Retrain compact RBF-KAN with optimal Top-K variables&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188.76" y="390" width="121.25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="180" width="345" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;Final SHAP-guided&amp;nbsp; RBF-KAN model&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190.02" y="480" width="119.98" height="40" as="geometry" />
