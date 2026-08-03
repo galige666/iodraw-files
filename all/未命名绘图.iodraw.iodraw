@@ -45,7 +45,7 @@
             <mxPoint x="600" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ntw0MYv2i0BjDHF5wW36-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train RBF-KAN on 4 folds&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ntw0MYv2i0BjDHF5wW36-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train RBF-KAN&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="240" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVvd3JyoUQdP9xuLBPqE-0" target="dVvd3JyoUQdP9xuLBPqE-2">
@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447" y="290" width="345" height="60" as="geometry" />
+          <mxGeometry x="840" y="170" width="345" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-33" value="&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Retrain compact RBF-KAN with optimal Top-K variables&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188.76" y="390" width="121.25" height="50" as="geometry" />
