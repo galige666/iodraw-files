@@ -176,8 +176,8 @@
         <mxCell id="dVvd3JyoUQdP9xuLBPqE-33" value="&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Retrain compact RBF-KAN with optimal Top-K variables&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188.76" y="390" width="121.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dVvd3JyoUQdP9xuLBPqE-35" value="" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="189.385" y="515" width="120" height="60" as="geometry" />
+        <mxCell id="dVvd3JyoUQdP9xuLBPqE-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;Final SHAP-guided compact RBF-KAN model&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190.015" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
